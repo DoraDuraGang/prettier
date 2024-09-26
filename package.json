@@ -1,14 +1,18 @@
 {
   "name": "@rstp/prettier",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Mish prettier template config",
   "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "https://github.com/DoraDuraGang/prettier",
   "author": "rstp",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "prettier": "prettier --write ."
+    "test": "prettier --write ./test"
   },
   "dependencies": {
     "prettier": "^3.3.3"
