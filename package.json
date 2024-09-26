@@ -1,6 +1,6 @@
 {
-  "name": "@mish/prettier",
-  "version": "1.0.0",
+  "name": "@rstp/prettier",
+  "version": "1.0.5",
   "description": "Mish prettier template config",
   "main": "index.js",
   "repository": "https://github.com/DoraDuraGang/prettier",
